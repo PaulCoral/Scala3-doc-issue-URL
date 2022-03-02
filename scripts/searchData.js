@@ -1,0 +1,10 @@
+pages = [{"l":"index.html","n":"scala-doc-issue","t":"scala-doc-issue","d":"","k":"static"},
+{"l":"_empty_.html","n":"<empty>","t":"package <empty>","d":"<empty>","k":"package"},
+{"l":"_empty_.html","n":"hello","t":"def hello: Unit","d":"<empty>","k":"def"},
+{"l":"_empty_.html","n":"msg","t":"def msg: String","d":"<empty>","k":"def"},
+{"l":"_empty_/hello.html","n":"hello","t":"class hello","d":"<empty>/hello","k":"class"},
+{"l":"_empty_/hello.html","n":"main","t":"def main(args: Array[String]): Unit","d":"<empty>/hello","k":"def"},
+{"l":"_empty_/~>~.html","n":"~>~","t":"class ~>~[A, B](_1: A, _2: B)","d":"<empty>/~>~","k":"class"},
+{"l":"example.html","n":"example","t":"package example","d":"example","k":"package"},
+{"l":"example/~.html","n":"~","t":"class ~[A, B](_1: A, _2: B)","d":"example/~","k":"class"},
+{"l":"docs/index.html","n":"scala-doc-issue","t":"scala-doc-issue","d":"","k":"static"}];
